@@ -1,0 +1,25 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Python compilado
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y datos temporales
+*.log
+data_processed/etl_log.txt
+
+# Archivos personales (opcional)
+*.tmp
