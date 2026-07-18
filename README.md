@@ -10,7 +10,7 @@ Dashboard interactivo de Business Intelligence para análisis de ventas de un mi
 
 ## 🌐 Demo en vivo
 
-👉 https://tu-link.streamlit.app *(actualizar tras deploy)*
+👉 **https://minimarket-bi-ricardo.streamlit.app**
 
 ---
 
